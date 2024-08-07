@@ -5,7 +5,7 @@
 
 .cabeçalho{
 
-    background-color: black;
+    background-color: darkolivegreen;
     margin: 5%;
     padding: 10px;
     text-align: center;
@@ -13,5 +13,30 @@
 
 .informações{
 
-    background-color: khaki;
+background-color: khaki;
+margin: 16px;
+padding: 10px;
+text-align: justify;
 }
+
+.informações-titulo{
+text-align: center;
+}
+
+.informações-imagens{
+text-align: center;
+width: 45%;
+}
+
+.informações-texto{
+    text-align: justify;
+}
+
+.informações-2{
+    background-color: darkgoldenrod;
+    margin: 16px;
+}
+
+infor
+
+
