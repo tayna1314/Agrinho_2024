@@ -1,11 +1,12 @@
 .body{
     padding:  auto;
     margin: 0%;
+    
 }
 
 .cabeçalho{
 
-    background-color: darkolivegreen;
+    background-color: rgb(246, 243, 242);
     margin: 5%;
     padding: 10px;
     text-align: center;
@@ -16,7 +17,7 @@
 background-color: khaki;
 margin: 16px;
 padding: 10px;
-text-align: justify;
+text-align: center;
 }
 
 .informações-titulo{
@@ -35,8 +36,26 @@ width: 45%;
 .informações-2{
     background-color: darkgoldenrod;
     margin: 16px;
+    padding: 10px;
 }
 
-infor
+.informações-2-titulo-1{
+    text-align: justify;
+    text-align: center;
 
+}
 
+.informações-2-titulo-2{
+    text-align: justify;
+    text-align: center;
+}
+
+.informações-2-texto-1{
+    text-align: justify;
+    text-align: center;
+}
+
+.informações-2-texto-2{
+    text-align: justify;
+    text-align: center;
+}
